@@ -181,10 +181,4 @@ Lab10Web/
 ├─ simpan.php
 ```
 
-# 6. Hasil & Pembahasan
-✔ Form tampil  
-✔ Data tersimpan  
-✔ Modularisasi berhasil  
 
-# 7. Link Repository
-*(isi setelah upload ke GitHub)*
